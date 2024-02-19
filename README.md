@@ -8,4 +8,4 @@ Dobavili text lokalino
 
 Dobavili text v novoi vetke newbranch
 
-Razreshaem conflict text v browsere
+Razreshaem conflict
