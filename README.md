@@ -3,3 +3,5 @@
 Dobavili text
 
 Dobavili text cerez web browser
+
+Dobavili text lokalino
